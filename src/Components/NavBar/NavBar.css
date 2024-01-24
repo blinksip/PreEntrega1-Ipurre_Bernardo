@@ -1,0 +1,21 @@
+.navbar {
+margin: 0%;
+padding: 0%;
+
+}
+
+.logo{
+    width: 50px;
+}
+.container {
+background-color:white;
+   
+}
+
+.me-auto {
+    display: flex;
+    align-items: center;
+    
+    
+
+}
