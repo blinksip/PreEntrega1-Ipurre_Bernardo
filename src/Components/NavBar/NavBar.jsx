@@ -8,7 +8,7 @@ function NavBar() {
     <>
        <Navbar bg="light" data-bs-theme="light">
         <Container>
-          <Navbar.Brand  href="#home"><img className='logo'  src="https://cdn-icons-png.flaticon.com/128/9856/9856688.png" alt="logo1" /></Navbar.Brand>
+          <Navbar.Brand  href="#home"><img className='logo'  src="https://cdn-icons-png.flaticon.com/128/828/828460.png" alt="logo1" /></Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link href="#home">Home</Nav.Link>
             <Nav.Link href="#men">Men</Nav.Link>
